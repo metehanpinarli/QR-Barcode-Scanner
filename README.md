@@ -20,8 +20,7 @@ The [qr_code_scanner](https://pub.dev/packages/qr_code_scanner) package, which c
 
 ## Screenshots of the App
 :-------------------------:|:-------------------------:
-![Screenshot_20220115-234804](https://user-images.githubusercontent.com/56471014/149637401-a2980066-9a41-40fe-a272-caa61c3874e3.jpg)
-![Screenshot_20220115-234939](https://user-images.githubusercontent.com/56471014/149637405-d89b2b03-5ffa-403b-a9ab-e885a6a99bd4.jpg)
+<img src="https://user-images.githubusercontent.com/56471014/149637401-a2980066-9a41-40fe-a272-caa61c3874e3.jpg" height="450"> |  <img src="https://user-images.githubusercontent.com/56471014/149637405-d89b2b03-5ffa-403b-a9ab-e885a6a99bd4.jpg" height="450">
 ![Screenshot_20220115-235013](https://user-images.githubusercontent.com/56471014/149637410-1b9f34b6-7e5d-4f35-98a3-3e876b05d3f3.jpg)
 ![Screenshot_20220115-234948](https://user-images.githubusercontent.com/56471014/149637411-a3f62fab-a174-4223-8691-68b5e2b62c9d.jpg)
 
